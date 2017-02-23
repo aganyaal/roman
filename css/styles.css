@@ -1,0 +1,14 @@
+.calc{
+  margin-top:100px;
+
+}
+#change_me{
+height:50px;
+width:50px;
+margin: auto;
+padding: 20px;
+}
+.resultss{
+  text-align: center;
+  background-color: grey;
+}
